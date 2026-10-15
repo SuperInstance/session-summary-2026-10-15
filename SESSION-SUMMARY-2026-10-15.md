@@ -30,7 +30,7 @@ Reproduced byte-for-byte by all 5 fully-conforming ports (TS, Python, Elixir, JS
 | 14 | [`SuperInstance/gitpp-cs`](https://github.com/SuperInstance/gitpp-cs) | 5th fold port, C# / .NET 9, stdlib only | v0.2.0: 28/28 conformance |
 | 15 | [`SuperInstance/gitpp-pl`](https://github.com/SuperInstance/gitpp-pl) | 6th fold port, Perl 5, stdlib only | v0.1.0: 28/28 conformance, doc-only PASSED |
 
-**Fleet count: 5,198 → 5,213.** No archival.
+**Fleet count: 5,237 → 5,253 (16 new repos).** No archival.
 
 ## The 6 fold ports (in production order)
 
